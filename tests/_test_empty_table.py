@@ -1,5 +1,6 @@
 # importation of the solution function to test
 import os
+import pandas as pd
 from tests.test_readme_table import read_table
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
