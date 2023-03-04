@@ -22,8 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  - California-Housing-Price-Predictions            |  - Created and Evaluated Machine Learning Models; Stochastic Gradient Descent(SGD) Model and tuned it to compare with Random Forest Model for best results.            | https://github.com/Jonasafutu/California-Housing-Price-Prediction.git       |
 | 2 |  - Exploratory-Data-Analysis-on-New-York-City-Parking-Violations            |  - EDA on NYC parking violations, showing various vehicle brands and the counties with the most violations.            | https://github.com/Jonasafutu/Exploratory-Data-Analysis-on-New-York-City-Parking-Violations.git       |
-| 3 |  - Sales-And-Operations-Planing-Project            |  - A Python program to simulate a sales and operations planning using the zero-stock level strategy. The program will ask users to enter some information(data) to help with the calculations:
-          | https://github.com/Jonasafutu/Sales-And-Operations-Planing-Project.git       |
+| 3 |  - Sales-And-Operations-Planing-Project            |  - A Python program to simulate a sales and operations planning using the zero-stock level strategy. The program will ask users to enter some information(data) to help with the calculations:            | https://github.com/Jonasafutu/Sales-And-Operations-Planing-Project.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
